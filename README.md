@@ -10,4 +10,4 @@ Full Stack developer and tecnology enthusiast
 - Docker
 - JavaScript / TypeScript
 
-- 🔭 I’m currently studying Computer Science in UPNA
+🔭 Currently studying Computer Science in UPNA
