@@ -3,7 +3,8 @@
 Full Stack developer and tecnology enthusiast 
 
 ### 🧠 Languages & Technologies
-- C / Java
+- C / PHP
+- Java
 - SQL
 - HTML / CSS
 - Python
