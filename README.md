@@ -1,8 +1,9 @@
-## HOLA, I'm Felipe
+# HOLA, I'm Felipe
 
-Science computer engineer, full Stack developer and tecnology enthusiast!
+Computer science engineer, full Stack developer and tecnology enthusiast!
 
-### Some things I think I know about
+## Some things I think I know about
+### Programming Languages
 - C
 - Java
 - PHP
@@ -10,8 +11,10 @@ Science computer engineer, full Stack developer and tecnology enthusiast!
 - SQL
 - HTML / CSS
 - JavaScript / TypeScript
+
+### Technologies & Concepts
 - Docker
 - Web Services
 - Linux Systems
-
+- CVEs
 
