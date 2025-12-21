@@ -1,14 +1,17 @@
-## Hi there 👋, I'm Felipe Santos
+## HOLA, I'm Felipe
 
-Full Stack developer and tecnology enthusiast 
+Science computer engineer, full Stack developer and tecnology enthusiast!
 
-### 🧠 Languages & Technologies
-- C / PHP
+### Some things I think I know about
+- C
 - Java
+- PHP
+- Python
 - SQL
 - HTML / CSS
-- Python
-- Docker
 - JavaScript / TypeScript
+- Docker
+- Web Services
+- Linux Systems
 
-🔭 Currently studying Computer Science in UPNA
+
