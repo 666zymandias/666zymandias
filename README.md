@@ -13,7 +13,7 @@ Computer science engineer, full Stack developer and tecnology enthusiast!
 - JavaScript / TypeScript
 
 ### Technologies & Concepts
-- Docker
+- Docker containers
 - Web Services
 - Linux Systems
 - CVEs
